@@ -8,27 +8,27 @@
     ]
   },
   "User": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": false
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": false
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": false
   },
   "Users": {
-    "dataSource": "db",
+    "dataSource": "mongodbCardiom",
     "public": true
   }
 }

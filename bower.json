@@ -1,0 +1,16 @@
+{
+  "name": "cardiom",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rgolea/cardiom",
+  "authors": [
+    "Rares G. <rgolea@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
